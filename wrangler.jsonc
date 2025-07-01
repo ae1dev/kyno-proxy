@@ -1,0 +1,14 @@
+{
+	"name": "kyno-proxy",
+	"main": "src/index.ts",
+	"compatibility_date": "2025-03-03",
+	"observability": {
+		"enabled": true
+	},
+	"routes": [
+		{
+			"pattern": "kp.xn--1-3fa.com",
+			"custom_domain": true
+		}
+  	]
+}
