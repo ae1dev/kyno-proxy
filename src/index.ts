@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------
   Cloudflare Worker – Hono proxy for the Cloudflare REST API for Kyno's website
 
-  This is only used for the website anad not the mobile app.
+  This is only used for the website and not the mobile app.
   -----------------------------------------------------------
   • Any request that reaches the worker is proxied to
     https://api.cloudflare.com/client/v4/…
